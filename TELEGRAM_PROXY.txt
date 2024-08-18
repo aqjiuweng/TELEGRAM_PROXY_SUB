@@ -1,4 +1,3 @@
-https://t.me/proxy?server=37.28.68.85-0.ir&port=777&secret=eeRighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=185.222.28.73&port=12&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=37.27.36.236&port=321&secret=7rf61eWybv_Ce70ftN-9DBItcmFuc2xhdGUuZ29v
 https://t.me/proxy?server=176.65.128.190&port=85&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
@@ -8,3 +7,4 @@ https://t.me/proxy?server=93.183.127.38&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q=
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.ajantech.ir.&port=8087&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
 https://t.me/proxy?server=79.127.239.90&port=9090&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=nefgu.tebarad.ir.&port=8087&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
+https://t.me/proxy?server=103.161.35.190&port=999&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
