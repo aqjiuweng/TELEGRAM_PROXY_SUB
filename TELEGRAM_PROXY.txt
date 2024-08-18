@@ -1,10 +1,10 @@
-https://t.me/proxy?server=88.119.166.242&port=15505&secret=eeRighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=36.158.206.104&port=12231&secret=ee87f3c38426788f6c2bd036713e4b59de617a7572652e6d6963726f736f66742e636f6d
-https://t.me/proxy?server=170.187.142.244&port=9999&secret=ee39da1824cb0b21954a202ac26446597d617a7572652e6d6963726f736f66742e636f6d
-https://t.me/proxy?server=162.55.232.60&port=243&secret=7gggggggggggggggggggggh6cWt0bHdpdWF2dnZxcXQ0eWJ2Z3ZpN3R5bzRoamw1eGdmdXZwZGY2b3RqaXljZ3dxYnltMnFhZC5vbmlvbg==
-https://t.me/proxy?server=5.35.69.83&port=321&secret=7rf61eWybv_Ce70ftN-9DBItcmFuc2xhdGUuZ29v
 https://t.me/proxy?server=176.65.128.190&port=85&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.tohator-99.info.&port=8558&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=109.107.165.65&port=7443&secret=3VkCc6SyLH84DbsPCgJ3Ug
 https://t.me/proxy?server=www.talismanliner.info&port=443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=46.229.243.189&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q
+https://t.me/proxy?server=89.110.107.115&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==&@MTProxy_Lists
+https://t.me/proxy?server=89.110.81.248&port=4045&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v&@MTProxy_Lists
+https://t.me/proxy?server=89.110.105.3&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==&@MTProxy_Lists
+https://t.me/proxy?server=109.107.186.34&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==&@MTProxy_Lists
+https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.works-shops.info.&port=7557&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v&@MTProxy_Lists
