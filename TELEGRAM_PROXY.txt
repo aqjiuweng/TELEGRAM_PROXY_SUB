@@ -1,10 +1,10 @@
-https://t.me/proxy?server=88.80.139.22&port=12&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
-https://t.me/proxy?server=88.80.139.22&port=12&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
-https://t.me/proxy?server=88.80.139.91&port=12&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
-https://t.me/proxy?server=88.80.139.22&port=12&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
-https://t.me/proxy?server=88.80.139.22&port=12&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
-https://t.me/proxy?server=88.80.139.156&port=12&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v ✅
-https://t.me/proxy?server=88.80.139.91&port=12&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v ✅
-https://t.me/proxy?server=88.80.139.22&port=12&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v ✅
-https://t.me/proxy?server=51.159.166.112&port=7603&secret=ee0ad565389bb264b33c81f11bd42c104b7777772e736974652e636f6d
-https://t.me/proxy?server=140.233.187.16&port=12&secret=ee52c867dc75983faf4bb37f91d5164f092d
+https://t.me/proxy?server=140.233.187.10&port=12&secret=ee66607b90889cc60719d2170cb28519622a
+https://t.me/proxy?server=194.164.35.251&port=18443&secret=ee52c867dc75983faf4bb37f91d5164f092e
+https://t.me/proxy?server=74.91.29.206&port=443&secret=eee7ce9f4679bfc87bb93390ed56e2c9686170742d6d6972726f722e6f7267
+https://t.me/proxy?server=37.27.201.187&port=5375&secret=eeaff916db4791adb62aab408f9b5a7dff7472616e736c6174652e676f6f
+https://t.me/proxy?server=47.83.25.34&port=55233&secret=ee52bbe51fa13bfd1fd25be65db568103e617a7572652e6d6963726f736f66742e636f6d
+https://t.me/proxy?server=194.60.132.17&port=3448&secret=ee52c867dc75983faf4bb37f91d5164f092e
+https://t.me/proxy?server=195.201.21.39&port=15&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
+https://t.me/proxy?server=89.110.85.228&port=25&secret=ee66607b90889cc60719d2170cb28519622a
+https://t.me/proxy?server=18.224.69.156&port=443&secret=ee072072072072072072072072072072077472616e736c6174652e676f6f
+https://t.me/proxy?server=65.109.206.165&port=14&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
