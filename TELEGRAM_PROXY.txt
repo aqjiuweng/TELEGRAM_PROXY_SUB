@@ -1,10 +1,10 @@
-https://t.me/proxy?server=140.233.187.63&port=12&secret=7mZge5CInMYHGdIXDLKFGWIrKi1f
-https://t.me/proxy?server=185.121.225.83&port=12&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
-https://t.me/proxy?server=176.65.128.190&port=85&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
-https://t.me/proxy?server=176.65.128.190&port=85&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
-https://t.me/proxy?server=140.233.187.62&port=12&secret=7mZge5CInMYHGdIXDLKFGWIrKi1f
-https://t.me/proxy?server=88.80.139.156&port=12&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v ✅
-https://t.me/proxy?server=88.80.139.91&port=12&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v ✅
-https://t.me/proxy?server=88.80.139.22&port=12&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v ✅
-https://t.me/proxy?server=188.245.82.205&port=85&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
-https://t.me/proxy?server=188.245.88.0&port=9090&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
+https://t.me/proxy?server=77.232.39.56&port=3598&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
+https://t.me/proxy?server=140.233.187.38&port=12&secret=ee52c867dc75983faf4bb37f91d5164f092d
+https://t.me/proxy?server=185.177.229.236&port=443&secret=ee1603010200010001fc030386e24c3add64726f70626f782e636f6d
+https://t.me/proxy?server=77.238.224.223&port=826&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
+https://t.me/proxy?server=108.181.121.162&port=443&secret=ee52c867dc75983faf4bb37f91d5164f092d
+https://t.me/proxy?server=212.111.80.196&port=85&secret=ee52c867dc75983faf4bb37f91d5164f092d
+https://t.me/proxy?server=88.80.139.26&port=12&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
+https://t.me/proxy?server=91.142.78.45&port=3895&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
+https://t.me/proxy?server=77.232.42.223&port=3598&secret=ee00000000000000000000000000000000636f6465782e6972
+https://t.me/proxy?server=172.105.47.213&port=9999&secret=ee10f16193f57bd2bee7d46ab05554f6e0617a7572652e6d6963726f736f66742e636f6d
