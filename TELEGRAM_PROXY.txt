@@ -1,3 +1,4 @@
+https://t.me/proxy?server=65.109.136.206&port=14&secret=7nXiiuPe1eKZ653DSK45HaItcmFuc2xhdGUuZ29v
 https://t.me/proxy?server=91.107.215.236&port=14&secret=7nXiiuPe1eKZ653DSK45HaItcmFuc2xhdGUuZ29v&@Data_proxy
 https://t.me/proxy?server=140.233.187.61&port=12&secret=7mZge5CInMYHGdIXDLKFGWIrKi1f&@Data_proxy
 https://t.me/proxy?server=www.web--imt.info.&port=8087&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D&@Data_proxy
@@ -7,4 +8,3 @@ https://t.me/proxy?server=185.244.183.28&port=3895&secret=7ggggggggggggggggggggg
 https://t.me/proxy?server=135.181.26.2&port=3895&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=www.web--imt.info.&port=8087&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
 https://t.me/proxy?server=185.244.182.22&port=3598&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
-https://t.me/proxy?server=185.244.183.28&port=3895&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
