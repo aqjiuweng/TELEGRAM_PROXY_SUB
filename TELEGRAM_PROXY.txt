@@ -1,10 +1,10 @@
-https://t.me/proxy?server=185.173.38.19&port=3598&secret=7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg
-https://t.me/proxy?server=77.232.41.187&port=3598&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
+https://t.me/proxy?server=194.87.149.181&port=443&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D16030102000100010000000000000](https://t.me/+7yZi0qjmHcRiOTJk
+https://t.me/proxy?server=95.169.173.148&port=85&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
+https://t.me/proxy?server=185.173.36.60&port=3598&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
+https://t.me/proxy?server=cloudflare--com.www--kmp.info.&port=8087&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
+https://t.me/proxy?server=82.153.35.101&port=85&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
+https://t.me/proxy?server=82.153.35.102&port=85&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
+https://t.me/proxy?server=95.169.173.148&port=85&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=185.121.225.83&port=12&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=95.169.173.148&port=85&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
-https://t.me/proxy?server=77.232.38.104&port=3598&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=185.115.161.161&port=4443&secret=eeRighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=185.244.183.91&port=3598&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
-https://t.me/proxy?server=185.244.180.55&port=3598&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
-https://t.me/proxy?server=77.232.38.134&port=3598&secret=7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg
-https://t.me/proxy?server=mci.ir.apt-centos.org.&port=888&secret=eeRighJJvXrFGRMCIMJdCQ
