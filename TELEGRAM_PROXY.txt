@@ -1,10 +1,10 @@
-https://t.me/proxy?server=77.232.41.150&port=3598&secret=7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg
-https://t.me/proxy?server=185.173.38.22&port=3598&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
-https://t.me/proxy?server=185.173.38.161&port=3598&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
-https://t.me/proxy?server=185.244.183.251&port=3598&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
-https://t.me/proxy?server=185.173.39.62&port=3598&secret=7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg
-https://t.me/proxy?server=hizal.hiobozgoat.shop&port=443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=85.10.195.112&port=4045&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=213.239.209.206&port=4045&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=195.201.169.111&port=43&secret=7lLIZ9x1mD-vS7N_kdUWTwl3d3cuYmJjbmV3c2Q3M2hrem5vMmluaTQzdDRnYmx4dnljeWFjNWF3NGdudjd0MnJjY2lqaDc3NDV1cWQub25pb24
 https://t.me/proxy?server=116.202.197.53&port=243&secret=7gggggggggggggggggggggh6cWt0bHdpdWF2dnZxcXQ0eWJ2Z3ZpN3R5bzRoamw1eGdmdXZwZGY2b3RqaXljZ3dxYnltMnFhZC5vbmlvbg
+https://t.me/proxy?server=167.235.67.246&port=15&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
+https://t.me/proxy?server=185.222.28.94&port=12&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
+https://t.me/proxy?server=78.46.69.43&port=243&secret=ee082082082082082082082082082082087a716b746c77697561767676717174347962766776693774796f34686a6c357867667576706466366f746a69796367777162796d327161642e6f6e696f6e
+https://t.me/proxy?server=94.130.143.114&port=43&secret=ee52c867dc75983faf4bb37f91d5164f097777772e6262636e657773643733686b7a6e6f32696e693433743467626c7876796379616335617734676e76377432726363696a68373734357571642e6f6e696f6e
+https://t.me/proxy?server=108.181.71.51&port=543&secret=ee1603010200010001fc030386e24c3add41534941544543482e434c4f5544
+https://t.me/proxy?server=5.79.68.181&port=80&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000
