@@ -1,10 +1,10 @@
-https://t.me/proxy?server=185.173.36.60&port=3598&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=176.65.128.109&port=999&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=176.65.128.108&port=999&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
-https://t.me/proxy?server=mci.ir.apt-centos.org.&port=888&secret=eeRighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=85.10.195.112&port=4045&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
-https://t.me/proxy?server=mci.ir.apt-centos.org.&port=888&secret=eeRighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=82.153.35.100&port=85&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
-https://t.me/proxy?server=82.153.35.68&port=14&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.dorcomom-com.info.&port=120&secret=7ggggggggggggggggggggghzYW5qZXNoLmdvbw
-https://t.me/proxy?server=77.232.41.113&port=3598&secret=7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg
+https://t.me/proxy?server=65.109.215.202&port=14&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
+https://t.me/proxy?server=91.107.242.153&port=19&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
+https://t.me/proxy?server=91.107.242.153&port=19&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v
+https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.ackf8rd.lat.&port=2741&secret=eeRigzNJvXrFGRMCIMJdEAPQ
+https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.dorcomom-com.info.&port=120&secret=7ggggggggggggggggggggghzYW5qZXNoLmdvbw
+https://t.me/proxy?server=95.169.173.211&port=8443&secret=eeRighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=95.169.173.176&port=8443&secret=eeRighJJvXrFGRMCIMJdCQ
