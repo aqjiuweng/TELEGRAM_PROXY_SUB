@@ -1,4 +1,3 @@
-https://t.me/proxy?server=159.69.121.194&port=8443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
 https://t.me/proxy?server=a.genesisroyal.site&port=8087&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
 https://t.me/proxy?server=t.segfault.net&port=8443&secret=bcfb182a1bafbc16ea92652628133c07
 https://t.me/proxy?server=172.233.249.116&port=8087&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
@@ -8,3 +7,4 @@ https://t.me/proxy?server=139.162.53.165&port=8087&secret=dd1603010200010001fc03
 https://t.me/proxy?server=188.245.175.23&port=8087&secret=dd1603010200010001fc030386e24c3add
 https://t.me/proxy?server=daemi.zedfilter.site&port=8087&secret=dd1603010200010001fc030386e24c3add
 https://t.me/proxy?server=172.233.249.116&port=8087&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D
+https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.porublack-88.forum.&port=5777&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
