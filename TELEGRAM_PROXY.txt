@@ -1,10 +1,10 @@
-https://t.me/proxy?server=116.203.166.243&port=826&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
-https://t.me/proxy?server=50.7.87.82&port=443&secret=ee1603010200010001fc030386e24c3add6862616e696d2e696e666f
-https://t.me/proxy?server=77.232.36.125&port=3598&secret=ee0000f00f0f775555fffffff5006d2e692d2d2d2d2d2d2d2d2d2d
-https://t.me/proxy?server=5.42.87.215&port=443&secret=eec6435eb0d4186b10a52aaaee8c45416c75706c6f6164626f792e636f6d
+https://t.me/proxy?server=91.107.129.36&port=9090&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=79.127.227.161&port=9090&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=88.80.139.106&port=85&secret=7gAA8A8Pd1VV____9QBuLmlhLS0tLS0tLS0%3D
 https://t.me/proxy?server=88.80.139.106&port=85&secret=7gAA8A8Pd1VV____9QBuLmlhLS0tLS0tLS0%3D
 https://t.me/proxy?server=88.80.139.106&port=85&secret=7gAA8A8Pd1VV____9QBuLmlhLS0tLS0tLS0%3D
 https://t.me/proxy?server=88.80.139.106&port=85&secret=7gAA8A8Pd1VV____9QBuLmlhLS0tLS0tLS0%3D
-https://t.me/proxy?server=116.202.4.195&port=9090&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=65.109.218.127&port=9090&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=Www.aaamado12.co.uk&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=89.110.103.94&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=ww.ahanbro12.co.uk&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=Www.aaamado12.co.uk&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
