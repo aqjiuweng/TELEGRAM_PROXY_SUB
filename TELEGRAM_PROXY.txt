@@ -1,10 +1,10 @@
-https://t.me/proxy?server=185.231.155.173&port=359800&secret=EERighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=178.217.99.72&port=3598&secret=EERighJJvXrFGRMCIMJdCQAA
-https://t.me/proxy?server=91.142.78.218&port=3598&secret=EERighJJvXrFGRMCIMJdCQAA
-https://t.me/proxy?server=185.244.181.80&port=443&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D
-https://t.me/proxy?server=91.142.78.249&port=44443&secret=eeRighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=77.232.38.200&port=443&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D
-https://t.me/proxy?server=185.244.183.211&port=443&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D
-https://t.me/proxy?server=77.232.38.200&port=443&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D
-https://t.me/proxy?server=108.181.121.214&port=443&secret=EERighJJvXrFGRMCIMJdCQ== irancell
-https://t.me/proxy?server=103.161.34.13&port=997&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=103.161.34.15&port=997&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=103.161.34.25&port=997&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=103.161.34.17&port=997&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=103.161.34.27&port=997&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=185.173.37.223&port=117&secret=7gD_AA___wD_9VVf______VmLmtvLS0%3D
+https://t.me/proxy?server=185.173.37.28&port=117&secret=7gD_AA___wD_9VVf______VmLmtvLS0%3D
+https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.sarasi.ir&port=443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
+https://t.me/proxy?server=prox-daemi.ba30bulllettakseen.cfd&port=443&secret=ee082082082082082082082082082082087472616e736c6174652e676f6f
+https://t.me/proxy?server=g9.rotarindah.info&port=443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=cush.gigibofounh.info&port=443&secret=1603010200010001fc030386e24c3add
