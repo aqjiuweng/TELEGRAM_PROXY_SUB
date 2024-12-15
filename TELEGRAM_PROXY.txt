@@ -1,10 +1,10 @@
-https://t.me/proxy?server=51.89.226.82&port=4442&secret=ee693f937b987ce5c961690c8c518586727777772e636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=51.89.226.82&port=4442&secret=ee2dfb579d403bf46e0b26f5bb36c31ee67777772e636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=176.65.135.25&port=4045&secret=7gAA8A8Pd__1VV______9QB2LmMtLS0=
-https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.voriaz-boriaz.info.&port=4550&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=77.232.38.67&port=3598&secret=8JEkJukBYNPSy7OH6v7urg%3D%3D
-https://t.me/proxy?server=sat.kaftarefokolbeasr.info&port=443&secret=1603010200010001fc030386e24c3add
-https://t.me/proxy?server=168.119.254.251&port=100&secret=eeRighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=188.34.159.150&port=8443&secret=eeRighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=168.119.173.228&port=888&secret=FgMBAgABAAH8AwOG4kw63Q
-https://t.me/proxy?server=5.78.58.92&port=155&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=185.231.155.173&port=359800&secret=EERighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=178.217.99.72&port=3598&secret=EERighJJvXrFGRMCIMJdCQAA
+https://t.me/proxy?server=91.142.78.218&port=3598&secret=EERighJJvXrFGRMCIMJdCQAA
+https://t.me/proxy?server=185.244.181.80&port=443&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D
+https://t.me/proxy?server=91.142.78.249&port=44443&secret=eeRighJJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=77.232.38.200&port=443&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D
+https://t.me/proxy?server=185.244.183.211&port=443&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D
+https://t.me/proxy?server=77.232.38.200&port=443&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D
+https://t.me/proxy?server=108.181.121.214&port=443&secret=EERighJJvXrFGRMCIMJdCQ== irancell
+https://t.me/proxy?server=103.161.34.13&port=997&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
